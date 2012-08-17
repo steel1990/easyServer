@@ -1,0 +1,9 @@
+{
+    "name": "easyserver",
+    "version": "0.0.1",
+    "description": "start a server for a folder",
+    "preferGlobal": "true",
+    "bin": { "easyServer": "easyServer.js" },
+    "author": "steel1990",
+    "engines": { "node": "*" }
+}
