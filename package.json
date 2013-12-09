@@ -1,7 +1,7 @@
 {
     "name": "easyserver",
-    "version": "0.0.1",
-    "description": "start a server for a folder",
+    "version": "0.0.2",
+    "description": "start a server for a folder easily",
     "preferGlobal": "true",
     "bin": { "easyServer": "easyServer.js" },
     "author": "steel1990",
