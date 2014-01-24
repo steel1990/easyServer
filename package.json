@@ -1,6 +1,6 @@
 {
     "name": "easyserver",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "start a server for a folder easily",
     "preferGlobal": "true",
     "bin": { "easyServer": "easyServer.js" },
